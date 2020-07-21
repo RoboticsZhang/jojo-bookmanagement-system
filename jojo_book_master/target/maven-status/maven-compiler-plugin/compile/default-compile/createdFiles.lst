@@ -1,0 +1,17 @@
+views\LoginView.class
+configuration\Configuration.class
+fonts\jojoCommentFont.class
+views\ReaderSearchView.class
+views\AdminManageView.class
+fonts\jojoPlainTextFont.class
+model\jojoDataManager.class
+main\Main.class
+fonts\jojoSubtitleFont.class
+views\ReaderView.class
+views\ReaderHistoryView.class
+views\AdminImportView.class
+views\AdminView.class
+views\ReaderBorrowView.class
+views\AdminEditView.class
+fonts\jojoTitleFont.class
+views\AdminBorrowView.class

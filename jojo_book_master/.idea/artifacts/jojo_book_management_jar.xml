@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jojo_book_management:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/jojo_book_management_jar</output-path>
+    <root id="archive" name="jojo_book_management.jar">
+      <element id="module-output" name="jojo_book_management" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/target/dependency/mysql-connector-java-5.1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
